@@ -13,3 +13,8 @@ CMPG-323-Project-4-35855916 repository will be used for Project 4.
 
 CMPG-323-Project-5-35855916 repository will be used for Project 5.
 
+## Project 1
+
+Project 1 contains a Kanban Board of the upcoming submissions for CMPG 323.
+
+A different repository will be created for each project. Project 1 will serve as a reference to the planning for the rest of the projects and submissions for the semester.
